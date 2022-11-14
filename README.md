@@ -5,17 +5,20 @@ Idea, research, analysis, visualization: Julia Merk
 
 ## Database
 
-The several databases can be found in this Github Repo by xxx. 
+The Database for the Analysis was the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) by Joshua C. Fjelstul, Ph.D..
 
 ## Analysis
 
-Here you can find the underlying analysis for the graphs
+Here you can find the analysis for the graphs
 
 | **Graph** | **Link** |
 | --- | --- |
 | Goals per Match|  [Analysis](Excel file) |
 | Number of Matches per World Cup | [Analysis](Excel File) |
 | Performance of host countries | [Analysis](Excel File) |
+| The typical World Cup Player | [Analysis](Excel File) |
+| The average age per position | [Analysis](Excel File) |
+| Punishments overview | [Analysis](Excel File) |
 
 ## Graphs
 
