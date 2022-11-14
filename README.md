@@ -1,5 +1,6 @@
 # FIFA World Cup Graphs
 Graphs that show trends since the beginning of the World Cup
+
 Idea, research, analysis, visualization: Julia Merk
 
 ## Database
