@@ -13,7 +13,7 @@ Here you can find the analysis for the graphs
 
 | **Graph** | **Link** |
 | --- | --- |
-| Goals per Match|  [file.xlsx]() |
+| Goals per Match|  [Analysis](https://github.com/dw-data/fifa-world-cup-graphs/blob/a16580df08be3322a1eb637f70076c5561f7c87e/Goals%20per%20Match.xlsx) |
 | Number of Matches per World Cup | [Analysis](Excel File) |
 | Performance of host countries | [Analysis](Excel File) |
 | The typical World Cup Player | [Analysis](Excel File) |
