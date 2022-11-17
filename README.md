@@ -5,7 +5,7 @@ Idea, research, analysis, visualization: Julia Merk
 
 ## Database
 
-The Database for the Analysis was the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) by Joshua C. Fjelstul, Ph.D..
+The database for the Analysis was the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) by Joshua C. Fjelstul, Ph.D.. 
 
 ## Analysis
 
