@@ -10,7 +10,7 @@ The database for the Analysis is the [Fjelstul World Cup Database](https://githu
 
 ## Analysis
 
-Here you can find the analysis and the Python code for the graphs. The graphs were then exported as svg and imported to AI Illustrator to finalize the charts.
+Here, you can find the analysis and the Python code for each chart. Most charts were created in Python and exported as svg to then be finalized.
 
 | **Graph** | **Analysis** | **Python** | **Comment**|
 | --- | --- | --- | --- |
