@@ -3,6 +3,7 @@
 This repository contains the link to the database, the individual analyses and code for each graph. The graphs that show different trends since the beginning of the World Cup in 1930.
 
 Idea, research, analysis, visualization: Julia Merk
+Analysis support: Rodrigo Menegat Schuinski
 
 ## Database
 
